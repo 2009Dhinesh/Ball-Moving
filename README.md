@@ -4,18 +4,18 @@ This project comes with one ball move one position-x and position-y move the bal
 
 ⚡ Usage
 
-Once you have the Ball Moving About project running in your browser, you can interact with the ball and observe its behavior. Here’s how to use the application:
-Automatic Movement:
-When the page loads, the ball will automatically start moving across the canvas. It will bounce off the edges, reversing its direction upon collision.
+    Once you have the Ball Moving About project running in your browser, you can interact with the ball and observe its behavior. Here’s how to use the 
+    application:
+      Automatic Movement:
+        When the page loads, the ball will automatically start moving across the canvas. It will bounce off the edges, reversing its direction upon collision.
 
-Open the Project in a Web Browser:
 
 🔌 Installation 
 
-Locate the index.html file in the project folder. You can open it by double-clicking the file or by dragging it into a web browser window.
-Alternatively, you can use a live server extension in your code editor (like Visual Studio Code) to serve the project:
-Install the Live Server extension.
-Right-click the index.html file and select "Open with Live Server".
+    Locate the index.html file in the project folder. You can open it by double-clicking the file or by dragging it into a web browser window.
+    Alternatively, you can use a live server extension in your code editor (like Visual Studio Code) to serve the project:
+    Install the Live Server extension.
+    Right-click the index.html file and select "Open with Live Server".
 
 🔧 Development
 
@@ -77,6 +77,7 @@ Coding Guidelines
     o set up a development environment for the Ball Moving About project, follow these guidelines:
 
   Software Requirements
+  
     Text Editor or IDE:
 
       Choose a code editor or integrated development environment (IDE) to write and manage your code. Recommended options include:
@@ -101,11 +102,11 @@ Coding Guidelines
       
       Live Server (for Visual Studio Code):
         
-        This extension allows you to run a local server and automatically refresh the browser as you make changes to your code. It enhances the development                     experience significantly.
+        This extension allows you to run a local server and automatically refresh the browser as you make changes to your code. It enhances the development                 experience significantly.
         
       Browser Developer Tools:
         
-        Familiarize yourself with the developer tools in your browser. These are essential for debugging JavaScript, inspecting elements, and analyzing                       performance.       
+        Familiarize yourself with the developer tools in your browser. These are essential for debugging JavaScript, inspecting elements, and analyzing                    performance.       
         Access them by right-clicking on the page and selecting "Inspect" or by pressing F12.
         
       Getting Started
@@ -122,7 +123,7 @@ Coding Guidelines
             
           Run a Local Server:
           
-            If using Visual Studio Code with the Live Server extension, right-click on index.html and select "Open with Live Server" to view your project in a web                 browser.
+            If using Visual Studio Code with the Live Server extension, right-click on index.html and select "Open with Live Server" to view your project in a web             browser.
           Best Practices
           
             Organize Your Code:
